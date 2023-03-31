@@ -45,7 +45,6 @@ KOSA 더존 3기, Final 프로젝트
 | |     | Spring Framework | Spring Framework 5.3.24 |
 | | Model Boilerplate | lombok | lombok 1.18.24 |
 | | 빌드 툴 | Gradle | 7.6 |
-| | 메시징 | MQTT | 미정 |
 | | 영속성 | MyBatis | MyBatis Spring 2.0.7 |
 | | WAS | Tomcat | Tomcat 9.0.70 | 
 | | IDE | Eclipse+STS | STS 3.9.18, Eclipse 4.21.0 | 
