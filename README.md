@@ -1,7 +1,8 @@
 # 프로젝트 개요
 
 KOSA 더존 3기, Final 프로젝트
-
+<br />
+https://github.com/rkdgusrn1212/laboratory_information_system
 ## 배포
 
 - AWS EC2에 배포
